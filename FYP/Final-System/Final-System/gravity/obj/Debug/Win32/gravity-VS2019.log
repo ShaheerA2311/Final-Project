@@ -1,0 +1,8 @@
+﻿  gravity.cpp
+C:\Users\rebecca\Desktop\sdk-3.15.0\examples\CLI\gravity\gravity.cpp(484,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rebecca\Desktop\sdk-3.15.0\examples\CLI\gravity\gravity.cpp(484,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rebecca\Desktop\sdk-3.15.0\examples\CLI\gravity\gravity.cpp(484,50): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rebecca\Desktop\sdk-3.15.0\examples\CLI\gravity\gravity.cpp(484,65): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rebecca\Desktop\sdk-3.15.0\examples\CLI\gravity\gravity.cpp(484,80): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rebecca\Desktop\sdk-3.15.0\examples\CLI\gravity\gravity.cpp(484,95): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  gravity-VS2019.vcxproj -> C:\Users\rebecca\Desktop\sdk-3.15.0\bin\gravity.exe
